@@ -1,3 +1,3 @@
 # data-engineering-practice
 
-Store files for testing/reviewing concepts covered in the "Data Engineering with Python" book.
+Store various files for testing/practicing concepts covered in the "Data Engineering with Python" book.
